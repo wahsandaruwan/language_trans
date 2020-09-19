@@ -22,6 +22,8 @@ This scripts transalte english to sinhala.
 * Should have installed following modules
     * pip
 
+### License : MIT
+
 ## You are welcome to this update this project if it contains any miss matches.
 
 
